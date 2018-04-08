@@ -1,0 +1,11 @@
+projects:
+  - name: 'Project name 1'
+    url: 'https://www.theuselesswebindex.com'
+    content:   'Your project content sample'
+    email_notification: false
+    telegram_notification: true
+  - name: 'Project name 2'
+    url: 'https://danwoodger.com'
+    content:   'Your project content sample'
+    email_notification: false
+    telegram_notification: true

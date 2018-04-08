@@ -1,0 +1,5 @@
+name: 'yourName'
+chat_id: 32423423
+token: 'yourTelegramToken'
+screenshot_path: '/var/www/html/project-monitoring/screenshots'
+scheduler: '*/1 * * * *'

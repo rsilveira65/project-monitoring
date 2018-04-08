@@ -1,0 +1,7 @@
+application/logs
+!application/logs/.gitkeep
+application/config/config.yml
+application/config/projects.yml
+application/node_modules
+.DS_Store
+.idea
