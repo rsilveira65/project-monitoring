@@ -1,6 +1,4 @@
 
-const parseContent = (htmlContent, mustBeInContent) => {
-    return htmlContent.search(mustBeInContent);
-};
+const parseContent = (htmlContent, mustBeInContent) => htmlContent.search(mustBeInContent);
 
 module.exports = { parseContent };
